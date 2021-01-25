@@ -6,5 +6,12 @@
  - effort
  - critisim
  - success of the others
+ 
 ![growth](growth.jpg)
 
+### somthing to do growthing your mindset:
+- [x] face your problem
+- [x] make some effort
+- [x] don't stop until success
+
+(https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
