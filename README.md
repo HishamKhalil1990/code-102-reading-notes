@@ -1,21 +1,16 @@
-# Growth Mindset
-### Growth mindset is a self-development skill. It based on developing our abilities for solving problems by making effort and retrying until success besides possessing intelligence and talent. It sharps our thinking process and gives a new skills.
-**Growth mindset go through _five_ stages:**
- - challanges
- - obstacels
- - effort
- - critisim
- - success of the others
- 
-![growth](growth.jpg)
+# Itroduction
+### full name: Hisham Ibrahim Khalil
+### education:
+ - bachelor degree in civil engineering
+ - master degree in civil engineerink
+### experiance:
+ - worked in constructions
+ - worked in solar systems
+### I'm taking a programing cource with ASAC
+_________________________________________________________________________
 
-### somthing to do growthing your mindset:
-- [x] face your problem
-- [x] make some effort
-- [x] don't stop until success
-
-[growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-_done by Hisham Khalil :_ 
-_a civil engineerin from jordan_
-[hisham github profile](https://github.com/HishamKhalil1990)
+| item           | link |
+| -------------- | ---- |
+| lab02a         | [home page](https://hishamkhalil1990.github.io/reading-notes/) |
+| growth mindset | [growth](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) |
+| github page    | [hisham github profile](https://github.com/HishamKhalil1990) |
