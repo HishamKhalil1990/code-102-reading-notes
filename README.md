@@ -14,8 +14,8 @@
 - [x] make some effort
 - [x] don't stop until success
 
-[linkone](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 _done by Hisham Khalil :_ 
 _a civil engineerin from jordan_
-[linktwo](https://github.com/HishamKhalil1990)
+[hisham github profile](https://github.com/HishamKhalil1990)
