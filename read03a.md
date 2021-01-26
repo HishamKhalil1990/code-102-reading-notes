@@ -17,6 +17,7 @@
 | ---------- | -------- |
 | `<header>` | which make a header for the page |
 | `<body>`   | where we add the content of the page |
+
 ### and some for add components as:
 
 | tag              | function |
@@ -40,6 +41,7 @@
   - Do they need the information to be general or specified ?
   - what are the techniques are used for displaying the site in comfortable easy way ?
 ## answering the questions leads for a lot of data that should be arranged by its importance and context so, websites are usually consists of pages that contain contents. some of the best methods to create pages are :
+
 | method                                  | function |
 | --------------------------------------- | -------- |
 | [site map](sitemap.jpg)                 | responsible for the main idea of the page |
