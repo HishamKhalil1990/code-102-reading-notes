@@ -13,6 +13,7 @@
   3. **_code each step_**
 
 ## JavaScript language support:
+
 | item        | description | example |
 | ----------- | ----------- | ------- |
 | variables   | are the stores for the assigned values | ![var](variables.jpg) |
