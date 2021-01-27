@@ -16,10 +16,10 @@
 
 | item | description | example |
 | ---- | ----------- | ------- |
-| variables | are the stores for the assigned values | ![var](variables.jpg) |
-| expressions | are the ways to assign values in variables | ![exp ](expression.jpg) |
-| operators | non-alphabetic characters used to construct expressions to perform a job | ![opa](arithmeticoperators.jpg) |
-| functions | a group of statements to perform a special task | ![func](function.jpg) |
+| variables | are the stores for the assigned values | [variable](variables.jpg) |
+| expressions | are the ways to assign values in variables | [expression ](expression.jpg) |
+| operators | non-alphabetic characters used to construct expressions to perform a job | [arithmetic operators ](arithmeticoperators.jpg) |
+| functions | a group of statements to perform a special task | [function](function.jpg) |
 
 ## a function is consist of a name to call, parameters if needed and a returning value if exist
 
