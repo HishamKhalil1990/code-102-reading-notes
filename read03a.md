@@ -28,7 +28,7 @@
 | `<img src=””>  ` | add an image |
 
 
-![example](example.jpg)
+![example](images/example.jpg)
 
 ## 4. Process and Design
 ### website design should satisfy four criteria to be useful and easy for the users and becomes a favorite of them. So the process for building and formatting the website should satisfy:
@@ -44,9 +44,9 @@
 
 | method                                  | function |
 | --------------------------------------- | -------- |
-| [site map](sitemap.jpg)                 | responsible for the main idea of the page |
-| [wireframe](wireframe.jpg)              | responsible about the contents shown in the page |
-| [visual hierarchy](visualhierarchy.jpg) | is responsible about the content appearance to users |
+| [site map](images/sitemap.jpg)                 | responsible for the main idea of the page |
+| [wireframe](images/wireframe.jpg)              | responsible about the contents shown in the page |
+| [visual hierarchy](images/visualhierarchy.jpg) | is responsible about the content appearance to users |
 
 **go back to** [home page](README.md)
 

@@ -5,25 +5,25 @@
   3. **_program instruction that will be followed by browser according to situation_**
   4. **_modify the content/s of the page for the users_**
 
-![example2](example2.jpg)
+![example2](images/example2.jpg)
 
 ### here are some tips to code with JavaScript:
-  1. **_define the goal_**
-  2. **_design the script_**
-  3. **_code each step_**
+  - [x] **_define the goal_**
+  - [x] **_design the script_**
+  - [x] **_code each step_**
 
 ## JavaScript language support:
 
 | item | description | example |
 | ---- | ----------- | ------- |
-| variables | are the stores for the assigned values | [variable](variables.jpg) |
-| expressions | are the ways to assign values in variables | [expression ](expression.jpg) |
-| operators | non-alphabetic characters used to construct expressions to perform a job | [arithmetic operators ](arithmeticoperators.jpg) |
-| functions | a group of statements to perform a special task | [function](function.jpg) |
+| variables | are the stores for the assigned values | [variable](images/variables.jpg) |
+| expressions | are the ways to assign values in variables | [expression ](images/expression.jpg) |
+| operators | non-alphabetic characters used to construct expressions to perform a job | [arithmetic operators ](images/arithmeticoperators.jpg) |
+| functions | a group of statements to perform a special task | [function](images/function.jpg) |
 
 ## a function is consist of a name to call, parameters if needed and a returning value if exist
 
-![example3](funcParts.jpg)
+![example3](images/funcParts.jpg)
 
 **go back to** [home page](README.md)
  

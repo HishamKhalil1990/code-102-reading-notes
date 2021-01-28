@@ -7,7 +7,7 @@
  - critisim
  - success of the others
  
-![growth](growth.jpg)
+![growth](images/growth.jpg)
 
 ### somthing to do growthing your mindset:
 - [x] face your problem
