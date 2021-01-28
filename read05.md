@@ -49,4 +49,5 @@
 | for | `for (i=1 ; i<= 10 ; i++) { console.log(i); }` | [for](images/forpic.jpg) |
 | while | `while (i<= 10) { console.log(i); }` | [while](images/whilepic.jpg) |
 
+**go back to** [home page](README.md)
 
