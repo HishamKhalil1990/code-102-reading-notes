@@ -13,6 +13,7 @@ _________________________________________________________________________
 | -------------- | ---- |
 | lab02a         | [growth mindset](lab02a) |
 | read03a         | [itrouduction to Websites programming ](read03a) |
-| reado4a         | [JavaScript](read04.md) |
-| reado5a         | [Comparison and Looping](read05.md) |
+| read04a         | [JavaScript](read04.md) |
+| read05a         | [Comparison and Looping](read05.md) |
+| read06a         | [Functions](read06.md) |
 | github page    | [hisham github profile](https://github.com/HishamKhalil1990) |

@@ -19,3 +19,5 @@
 
   ### the previous function is called by `calculate(x,y);` where x and y are the function arguments, they are variables contain a number values assigned by the function user. Note the user can assign values directly as a function arguments `calculate(5,10);` but a best practice to assign variables.
 
+**go back to** [home page](README.md)
+
