@@ -15,5 +15,5 @@ _________________________________________________________________________
 | read03a         | [itrouduction to Websites programming ](read03a) |
 | read04a         | [JavaScript](read04.md) |
 | read05a         | [Comparison and Looping](read05.md) |
-| read06a         | [Functions](read06.md) |
+| read06a         | [Functions and CSS rules](read06.md) |
 | github page    | [hisham github profile](https://github.com/HishamKhalil1990) |
