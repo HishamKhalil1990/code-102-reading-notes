@@ -5,7 +5,7 @@
   3. **_program instruction that will be followed by browser according to situation_**
   4. **_modify the content/s of the page for the users_**
 
-![example2](images/example2.jpg)
+![example2](102/images/example2.jpg)
 
 ### here are some tips to code with JavaScript:
   - [x] **_define the goal_**
@@ -16,14 +16,14 @@
 
 | item | description | example |
 | ---- | ----------- | ------- |
-| variables | are the stores for the assigned values | [variable](images/variables.jpg) |
-| expressions | are the ways to assign values in variables | [expression ](images/expression.jpg) |
-| operators | non-alphabetic characters used to construct expressions to perform a job | [arithmetic operators ](images/arithmeticoperators.jpg) |
-| functions | a group of statements to perform a special task | [function](images/function.jpg) |
+| variables | are the stores for the assigned values | [variable](102/images/variables.jpg) |
+| expressions | are the ways to assign values in variables | [expression ](102/images/expression.jpg) |
+| operators | non-alphabetic characters used to construct expressions to perform a job | [arithmetic operators ](102/images/arithmeticoperators.jpg) |
+| functions | a group of statements to perform a special task | [function](102/images/function.jpg) |
 
 ## a function is consist of a name to call, parameters if needed and a returning value if exist
 
-![example3](images/funcParts.jpg)
+![example3](102/images/funcParts.jpg)
 
 **go back to** [home page](README.md)
  
