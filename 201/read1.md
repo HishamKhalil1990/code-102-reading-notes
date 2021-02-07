@@ -45,3 +45,4 @@
 | `javascript()` | behavior layer |
 
 ### for linking a CSS file to HTML `<link rel=”stylesheet” herf=”css/c01.css”>`, for linking a JavaScript file to HTML `<script src=”js/add-content.js”></script>` and for placing a script in the HTML, it is done be writing the method in a script tag as `<script> document.write.(“welcome”) </script>`
+

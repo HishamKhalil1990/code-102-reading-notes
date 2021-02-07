@@ -6,27 +6,27 @@
 
 | element | script | example |
 | ------- | ------ | ------- |  
-| bold `<b>` | `<p> what is surrounded by the b tag appears <b> bold </b> only </p>` | ![ex](https://i.ibb.co/jMGZghY/1.jpg) |
-| italic `<i>` | `<p> what is surrounded by the i tag appears <i> italic </i> only </p>` | ![ex](https://i.ibb.co/WkSWxbn/2.jpg) |
-| superscript `<sup>` | `<p> what is surrounded by sup tag appears superscript on 4 <sup> th </sup> only </p>` | ![ex](https://i.ibb.co/5j7GKfZ/3.jpg) | 
-| subscript `<sub>` | `<p> what is surrounded by sub tag appears subscript under O <sub> 2</sub> only </p>` | ![ex](https://i.ibb.co/ckhM9v9/4.jpg) |
-| line break `<br/>` | `<p>  what is after the br tag appears <br/> in new line </p>` | ![ex](https://i.ibb.co/BnryDF1/5.jpg) |
-| theme break `<hr/>` | `<p>  what is after the hr tag appears </p> <hr/> <p> in new theme </p>` | ![ex](https://i.ibb.co/XSLNpZW/6.jpg) |
+| bold `<b>` | `<p> what is surrounded by the b tag appears <b> bold </b> only </p>` | [bold](https://i.ibb.co/jMGZghY/1.jpg) |
+| italic `<i>` | `<p> what is surrounded by the i tag appears <i> italic </i> only </p>` | [italic](https://i.ibb.co/WkSWxbn/2.jpg) |
+| superscript `<sup>` | `<p> what is surrounded by sup tag appears superscript on 4 <sup> th </sup> only </p>` | [superscript](https://i.ibb.co/5j7GKfZ/3.jpg) | 
+| subscript `<sub>` | `<p> what is surrounded by sub tag appears subscript under O <sub> 2</sub> only </p>` | [subscript](https://i.ibb.co/ckhM9v9/4.jpg) |
+| line break `<br/>` | `<p>  what is after the br tag appears <br/> in new line </p>` | [line break](https://i.ibb.co/BnryDF1/5.jpg) |
+| theme break `<hr/>` | `<p>  what is after the hr tag appears </p> <hr/> <p> in new theme </p>` | [theme break](https://i.ibb.co/XSLNpZW/6.jpg) |
 
   - **_semantic markup_ which are elements provide extra information without affect the structure as the following:**
 
 | element | script | example |
 | ------- | ------ | ------- |
-| strong importance `<strong>` | `<p> what is inside the strong tag has <b> strong importance </b> only </p>` |![ex](https://i.ibb.co/nbMhX5g/7.jpg) | 
-| emphasis `<em>` | `<p> what is inside the em tag can <em> change the sentence meaning </em> only </p>` | ![ex](https://i.ibb.co/WKfg4PQ/8.jpg) |
-| long quote `<blockquote>` | `<blockquote> <p>  what is surrounded by blockquote tag has longer quote </p> </blockquote> <p> more than the others </p>` | ![ex](https://i.ibb.co/PQ9rZsk/9.jpg) |
-| abbreviation `<abbr>` | `<p> what is surrounded by abbr tag as<abbr title=”professor”> prof</abbr> can be titled </p>` | ![ex](https://i.ibb.co/9N8VG5k/10.jpg) |
-| citation `<cite>` | `<p>  <cite> the citation form </cite> in what is surrounded by cite tag </p>` | ![ex](https://i.ibb.co/DCNBP09/11.jpg) |
-| definition `<dfn>` | `<p>  <dfn> a definition starts after </dfn> what is surrounded by dfn tag </p>` | ![ex](https://i.ibb.co/pR0F1Zm/12.jpg) |
-| address `<address>` | `<address> <p> what is surrounded by address tag is address </p> </address> <p>  only </p>` | ![ex](https://i.ibb.co/T2vbVnj/13.jpg) |
-| inserted `<ins>` | `<p> <ins> inserted item </ins> is only the surrounded text by ins tag </p>` | ![ex](https://i.ibb.co/ncK8mqk/14.jpg) |
-| deleted `<del>` | `<p> <del> deleted item </del> is only the surrounded text by del tag </p>` | ![ex](https://i.ibb.co/kJyfQmy/15.jpg) |
-| inaccurate something `<s>` | `<p> <s> inaccurate old price </s> is surrounded by s tag </p>` | ![ex](https://i.ibb.co/c6GPLsC/16.jpg) |
+| strong importance `<strong>` | `<p> what is inside the strong tag has <b> strong importance </b> only </p>` |[strong importance](https://i.ibb.co/nbMhX5g/7.jpg) | 
+| emphasis `<em>` | `<p> what is inside the em tag can <em> change the sentence meaning </em> only </p>` | [emphasis](https://i.ibb.co/WKfg4PQ/8.jpg) |
+| long quote `<blockquote>` | `<blockquote> <p>  what is surrounded by blockquote tag has longer quote </p> </blockquote> <p> more than the others </p>` | [long quote](https://i.ibb.co/PQ9rZsk/9.jpg) |
+| abbreviation `<abbr>` | `<p> what is surrounded by abbr tag as<abbr title=”professor”> prof</abbr> can be titled </p>` | [abbreviation](https://i.ibb.co/9N8VG5k/10.jpg) |
+| citation `<cite>` | `<p>  <cite> the citation form </cite> in what is surrounded by cite tag </p>` | [citation](https://i.ibb.co/DCNBP09/11.jpg) |
+| definition `<dfn>` | `<p>  <dfn> a definition starts after </dfn> what is surrounded by dfn tag </p>` | [definition](https://i.ibb.co/pR0F1Zm/12.jpg) |
+| address `<address>` | `<address> <p> what is surrounded by address tag is address </p> </address> <p>  only </p>` | [address](https://i.ibb.co/T2vbVnj/13.jpg) |
+| inserted`<ins>` | `<p> <ins> inserted item </ins> is only the surrounded text by ins tag </p>` | [inserted](https://i.ibb.co/ncK8mqk/14.jpg) |
+| deleted `<del>` | `<p> <del> deleted item </del> is only the surrounded text by del tag </p>` | [deleted](https://i.ibb.co/kJyfQmy/15.jpg) |
+| inaccurate something `<s>` | `<p> <s> inaccurate old price </s> is surrounded by s tag </p>` | [inaccurate something](https://i.ibb.co/c6GPLsC/16.jpg) |
 
 _________________________________________________________________________
 
@@ -108,6 +108,8 @@ _________________________________________________________________________
 | `>=` | does the left value is greater than or equal the right value |
 
 #### Logical operators are `&&` , `||` and `!`. They are used to connect between two conditions or more and comparing the condition results.
+
+
 
 
 
