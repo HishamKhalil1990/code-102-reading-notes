@@ -17,26 +17,29 @@ _________________________________________________________________________
 | read03a | [itrouduction to Websites programming ](read03a.md) |
 | read04a | [JavaScript](read04.md) |
 | read05a | [Comparison and Looping](read05.md) |
-| read06a | [Functions and CSS rules](read06.md) |
+| read06a | [Functions and CSS rules](read05.md) |
 | github page | [hisham github profile](https://github.com/HishamKhalil1990) |
 
 _____________________________________________________________________________
 
 ### 201 assigenments
+
 | assigenment | link |
 | ----------- | ---- |
-| read 1 | [growth mindset](lab02a) |
-| read 2 | [itrouduction to Websites programming ](read03a) |
-| read 3 | [JavaScript](read04.md) |
-| read 4 | [Comparison and Looping](read05.md) |
-| read 5 | [Functions and CSS rules](read06.md) |
-| read 6 | [hisham github profile](https://github.com/HishamKhalil1990) |
-| read 7 | [growth mindset](lab02a) |
-| read 8 | [itrouduction to Websites programming ](read03a) |
-| read 9 | [JavaScript](read04.md) |
-| read 10 | [Comparison and Looping](read05.md) |
-| read 11 | [Functions and CSS rules](read06.md) |
-| read 12 | [hisham github profile](https://github.com/HishamKhalil1990) |
-| read 13 | [growth mindset](lab02a) |
-| read 14 | [itrouduction to Websites programming ](read03a) |
-| read 15 | [JavaScript](read04.md) |
+| read 1 | [Introductory HTML and JavaScript](201/read1.md) |
+| read 2 | [read2](201/read2.md) |
+| read 3 | [read 3](201/read3.md) |
+| read 4 | [read 4](201/read4.md) |
+| read 5 | [read 5](201/read5.md) |
+| read 6 | [read 6](201/read6.md) |
+| read 7 | [read 7](201/read7.md) |
+| read 8 | [read 8](201/read8.md) |
+| read 9 | [read 9](201/read9.md) |
+| read 10 | [read 10](201/read10.md) |
+| read 11 | [read 11](201/read11.md) |
+| read 12 | [read 12](201/read12.md) |
+| read 13 | [read 13](201/read13.md) |
+| read 14 | [read 14](201/read14.md) |
+| read 15 | [read 15](201/read15.md) |
+
+_____________________________________________________________________________
