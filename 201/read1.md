@@ -27,11 +27,11 @@
   2. **_design a script as a flowcharts for the program tasks_**
   3. **_code each step using the language scripts_**
 ### In computer programming each physical thing can be represented as an object. It can be used through instances. For each instance of the object, it has properties which has names and values. Objects are interacted with through events (a trigger). They also have methods which are a list of instructions that represent a task.
-![hotel object](https://ibb.co/2v54tFS.jpg)
+![hotel object](https://i.ibb.co/0CQbMnK/hotel.jpg)
 ### web browsers are built using objects.
-![browser object](https://ibb.co/JKvWh7q.jpg)
+![browser object](https://i.ibb.co/kx4Vd8J/browser.jpg)
 ### in HTML pages the document object used to access and change  what content users see in the web page and respond to how the interact with it
-![document object](https://ibb.co/p3bL6r6.jpg)
+![document object](https://i.ibb.co/K9brczc/document.jpg)
 ### To change the HTML contents using JavaScript, the browser interprets the HTML code and applies styling to it as the following:
   1. **receive a page as HTML code**
   2. **create a model of the page and store it in the memory**
