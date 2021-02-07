@@ -25,7 +25,7 @@
   - **_selector_ indicate to the element that will be styled**
   - **_declaration_ indicate to the type and the value of the style that will be edited**
 
-  ![imagecss](102/images/csssparts.jpg)
+  ![imagecss](images/csssparts.jpg)
 
 ### types of selectors:
 

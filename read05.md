@@ -2,7 +2,7 @@
 ## 1. Comparison & logical operators 
 ### Comparison operators are a non-alphabetic characters. they may consist of one, two or three stringed characters. They are used to construct one expression that compare between two values which is referred by a condition. The form of a condition must be one operator and two operands. The operand must place in each side of the operator.  
 
-![condition](102/images/compopera.jpg)
+![condition](images/compopera.jpg)
 
 ### The condition is a comparing between two values so; the ending result is a Boolean datatype value (either yes or no). the comparisons operators are:
 
@@ -27,11 +27,11 @@
 
 ### They are used to connect between two conditions or more:
 
-![logopera](102/images/logopera.jpg)
+![logopera](images/logopera.jpg)
 
 ### They are used for comparing the conditions results as follows (T:true , F:flase):
 
-![table](102/images/table.jpg)
+![table](images/table.jpg)
 
 ## 2. Looping
 ### Loops are codes repeat running their inside instructions (statements) as long as the loop condition is true. Loops are consist of three parts:
@@ -46,8 +46,8 @@
 
 | loop | script | flow chart |
 | ---- | ------ | ---------- |
-| for | `for (i=1 ; i<= 10 ; i++) { console.log(i); }` | [for](102/images/forpic.jpg) |
-| while | `while (i<= 10) { console.log(i); }` | [while](102/images/whilepic.jpg) |
+| for | `for (i=1 ; i<= 10 ; i++) { console.log(i); }` | [for](images/forpic.jpg) |
+| while | `while (i<= 10) { console.log(i); }` | [while](images/whilepic.jpg) |
 
 **go back to** [home page](README.md)
 
