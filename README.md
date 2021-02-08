@@ -28,7 +28,7 @@ _____________________________________________________________________________
 | ----------- | ---- |
 | read 1 | [Introductory HTML and JavaScript](201/read1.md) |
 | read 2 | [HTML Text, CSS Introduction and Basic JavaScript Instructions](201/read2.md) |
-| read 3 | [read 3](201/read3.md) |
+| read 3 | [HTML Lists, Control Flow with JS, and the CSS Box Model](201/read3.md) |
 | read 4 | [read 4](201/read4.md) |
 | read 5 | [read 5](201/read5.md) |
 | read 6 | [read 6](201/read6.md) |

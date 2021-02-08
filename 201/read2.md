@@ -94,7 +94,7 @@ _________________________________________________________________________
 #### they are non-alphabetic characters used to construct expressions to perform a job as in:
 ![ex](https://i.ibb.co/tKGvH0K/arti1.jpg)
 #### 4. decision making
-#### in JavaScript they are done by the if statement which consists of a condition to be evaluated and a conditional statements to be executed depending on the condition result. The general form for if statement is `if (variable >= limit value) { statements if yes} else { statements if no}`. The comparison operators that can be used in the condition are:
+#### in JavaScript they are done by the if statement which consists of a condition to be evaluated and a conditional statements to be executed depending on the condition result. The general form for if statement is `if (condition) { to do statements if yes} else { to do statements if no}`. The comparison operators that can be used in the condition are:
 
 | operator | function |
 | -------- | -------- |
