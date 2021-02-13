@@ -31,7 +31,7 @@ _____________________________________________________________________________
 | read 3 | [HTML Lists, Control Flow with JS, and the CSS Box Model](201/read3.md) |
 | read 4 | [HTML Links, JS Functions, and Intro to CSS Layout](201/read4.md) |
 | read 5 | [Images, Color and Text](201/read5.md) |
-| read 6 | [read 6](201/read6.md) |
+| read 6 | [Problem Domain, Objects, and the DOM](201/read6.md) |
 | read 7 | [read 7](201/read7.md) |
 | read 8 | [read 8](201/read8.md) |
 | read 9 | [read 9](201/read9.md) |
