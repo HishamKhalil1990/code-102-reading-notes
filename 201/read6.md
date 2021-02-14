@@ -65,6 +65,7 @@
     1. **create the element by `createElement();`**
     2. **give it a content by `createTextNode();`**
     3. **add it to the DOM by `appendChild();`**
+    4. **change the element value as ex: `textContent;`**
   - **for removing:**
     1. **select the element and store it in a node variable** 
     2. **find the parent and store it in a node variable**
@@ -75,7 +76,7 @@
 
 | spcification | method |
 | ------------ | ------ |
-| get the attribute value of element node | `thegetAttribute();` |
+| get the attribute value of element node | `getAttribute();` |
 | check this attribute for the element node | `has Attribute();` | 
 | set a new value for the element node attribute | `setAttribute();` |
 | remove the element node attribute | `removeAttribute();` |

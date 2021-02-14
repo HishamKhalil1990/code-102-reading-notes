@@ -32,7 +32,7 @@ _____________________________________________________________________________
 | read 4 | [HTML Links, JS Functions, and Intro to CSS Layout](201/read4.md) |
 | read 5 | [Images, Color and Text](201/read5.md) |
 | read 6 | [Problem Domain, Objects, and the DOM](201/read6.md) |
-| read 7 | [read 7](201/read7.md) |
+| read 7 | [Object-Oriented Programming, HTML Tables](201/read7.md) |
 | read 8 | [read 8](201/read8.md) |
 | read 9 | [read 9](201/read9.md) |
 | read 10 | [read 10](201/read10.md) |
