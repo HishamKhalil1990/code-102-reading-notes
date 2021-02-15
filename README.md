@@ -33,7 +33,7 @@ _____________________________________________________________________________
 | read 5 | [Images, Color and Text](201/read5.md) |
 | read 6 | [Problem Domain, Objects, and the DOM](201/read6.md) |
 | read 7 | [Object-Oriented Programming, HTML Tables](201/read7.md) |
-| read 8 | [read 8](201/read8.md) |
+| read 8 | [Layout in CSS](201/read8.md) |
 | read 9 | [read 9](201/read9.md) |
 | read 10 | [read 10](201/read10.md) |
 | read 11 | [read 11](201/read11.md) |
