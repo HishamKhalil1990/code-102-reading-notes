@@ -1,6 +1,6 @@
 # Audio, Video and Images
 ## Audio and video
-#### To embed an audio and a video in HTML, `<audio>` and `<video>` tags are used. Inside the media tags, the media source tag with the source and the type is placed as `<source src=’source..mp4’ type=’video/mp4’>` . To play the media programmatically, the `HTMLMediaElement.play();` and for pausing ` HTMLMediaElement.pause();` . To assign buttons for media playing then `<button class="play" data-icon="P" aria-label="play pause toggle"></button>` and media pausing then ` <button class="stop" data-icon="S" aria-label="stop"></button>` . The buttons layout is controlled in CSS as:
+#### To embed an audio and a video in HTML, `<audio>` and `<video>` tags are used. Inside the media tags, the media source tag with the source and the type is placed as `<source src=’source..mp4’ type=’video/mp4’>` . To play the media programmatically, the `HTMLMediaElement.play();` and for pausing `HTMLMediaElement.pause();` . To assign buttons for media playing then `<button class="play" data-icon="P" aria-label="play pause toggle"></button>` and media pausing then ` <button class="stop" data-icon="S" aria-label="stop"></button>` . The buttons layout is controlled in CSS as:
   - **`visibility: hidden;`**
   - **`opacity: 0.5;`**
   - **`width: 400px;`**
