@@ -47,6 +47,10 @@ ____________________________________________________________________________
 
 ## Code 301 - Intermediate Software Development
 
+| assigenment | link |
+| ----------- | ---- |
+| lab02a | [RESPONSIVE WEB DESIGN and FLOATS](301/read01.md) |
+
 ____________________________________________________________________________
 
 ## Code 401 - Advanced Software Development
