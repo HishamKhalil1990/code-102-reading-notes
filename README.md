@@ -49,7 +49,9 @@ ____________________________________________________________________________
 
 | assigenment | link |
 | ----------- | ---- |
-| lab02a | [RESPONSIVE WEB DESIGN and FLOATS](301/read01.md) |
+| read01 | [RESPONSIVE WEB DESIGN and FLOATS](301/read01.md) |
+| read02 | [JQuery and Pair Programming](301/read02.md) |
+| read03 | [JQuery and Pair Programming](301/read03.md) |
 
 ____________________________________________________________________________
 
