@@ -4,7 +4,7 @@
 1. Grid container
     - it is the element on which `display: grid` is applied and contains the Grid items
 2. Grid item
-    -it is the direct child of the Grid container
+    - it is the direct child of the Grid container
 3. Grid line
     - it is the dividing line that make up the structure of the Grid horizantally or vertically
 4. Grid cell
