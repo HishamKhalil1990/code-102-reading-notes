@@ -53,7 +53,8 @@ ____________________________________________________________________________
 | read02 | [JQuery and Pair Programming](301/read02.md) |
 | read03 | [MUSTACHE and FLEXBOX](301/read03.md) |
 | read04 | [CSS GRID](301/read04.md) |
-| read04 | [HEROKU](301/read05.md) |
+| read05 | [HEROKU](301/read05.md) |
+| read06 | [NODE.JS](301/read06.md) |
 
 ____________________________________________________________________________
 
