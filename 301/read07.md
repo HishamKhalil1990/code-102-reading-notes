@@ -1,4 +1,5 @@
 # REST
+### Roy Fielding the man how helped in making the HTTP protocol and then write the first web server. this one can help browser to decide which protocol should be used. as GPS it let browser find anything anywhere. this known later on as REST
 ### Julia Rozovsky is a 25 years old has no idea about what to do in her life. All what she decided was, she wanted to find a job that was more social.
 ### Rozovsky searched a group to join where the students are arranaged together so that each group should proposed solutions to real world business as what seemed as -case competitions- .
 ### By contrast, her group was always fun and easygoing. In some ways, the team’s members got along better as a group than as individual friends.
@@ -9,3 +10,4 @@
 ### the researchers concluded that understanding and influencing group norms were the keys to improving Google's teams. They noticed two behaviors that all the good teams generally shared. First **equality in distribution of conversational turn-taking** and second **average social sensitivity**.
 ### in 2014, Rozovsky and her collegues began sharing their results with select groups of Google’s 51,000 employees
 ### Google members listen and show sensitivity for each other which led to a good contributions between them
+
