@@ -60,6 +60,7 @@ ____________________________________________________________________________
 | read09 | [Refactoring](301/read09.md) |
 | read10 | [THE CALL STACK and debugging](301/read10.md) |
 | read11 | [EJS](301/read11.md) |
+| read12 | [EJS PARTIALS](301/read12.md) |
 ____________________________________________________________________________
 
 ## Code 401 - Advanced Software Development

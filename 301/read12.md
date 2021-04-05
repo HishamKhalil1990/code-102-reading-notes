@@ -1,0 +1,3 @@
+# EJS PARTIALS
+### EJS PARTIALS are a an html parts selected and defined as a repeatative parts through web app pages. by defining these parts as partials, we can use the same html part and its css layout for all the web app pages without needing to retype it from the scratch. partials are compatible with EJS. to use partials we need to wrap the needed html part from the above by `<%- include('partials/navbar') %>` and the bottom by `<%- include('partials/footer') %>` as the following example:
+![ex](https://i.ibb.co/1Xd9qmB/1.jpg)
