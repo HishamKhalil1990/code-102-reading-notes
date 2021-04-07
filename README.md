@@ -62,6 +62,8 @@ ____________________________________________________________________________
 | read11 | [EJS](301/read11.md) |
 | read12 | [EJS PARTIALS](301/read12.md) |
 | read13 | [SENDING FORM DATA](301/read13.md) |
+| read14a | [DATABASE NORMALIZATION](301/read14a.md) |
+| read14b | [SENDING FORM DATA](301/read14b.md) |
 ____________________________________________________________________________
 
 ## Code 401 - Advanced Software Development
