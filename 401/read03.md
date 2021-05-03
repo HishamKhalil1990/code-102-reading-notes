@@ -26,3 +26,6 @@
 | `.readlines()` | This reads the remaining lines from the file object and returns them as a list. |
 | `.write(string)` | This writes the string to the file. |
 | `.writelines(seq)` | This writes the sequence to the file. No line endings are appended to each sequence item. It’s up to you to add the appropriate line ending(s). |
+
+## Exceptions
+#### in python, when error occur the program is terminated. an error can be a syntax error or an exception. for syntax error, it happen when the parser detects an incorrect statement but in exception happen when a correct syntactically code give an error as a result of code excution as a `ZeroDivisionError` when dividing on zero. to throw the exception, `raise` if a condition occured. however to avoid a program crash midway, `AssertionError` can be used. sometimes when exception occurs, a new algorithms should be used instead. to do this `try` and `except` Block is used where the code try to excute the `try` code block and when it failed it excute the `except` code block. for the last method, an `else` clause can be added to be excuted when no excption occurs or `finally` clause can be added to be excuted always at the end 
