@@ -6,3 +6,7 @@
 - Singly linked lists which have a single track
 - doubly linked list the single track can be reversed
 - circular linked list where node that acts as the tail of the list so the node after the tail node becomes list start
+### what i learned from linked lists are:
+- data structuring is important because it will specify the Big O notaion for the time and space
+- linked lists are more adapted for memories than arrays
+### i can say linked lists are useful when choosing the right type for it
