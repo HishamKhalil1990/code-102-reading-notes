@@ -6,5 +6,6 @@
 - `for` loop to repeat the condition 
 - `if` condition to determine whether the expression is used or skipped
 ### the expression can be:
-- Multiplying parts (`item*3`) of a list as `multiplied = [item*3 for item in list1]`
-- Showing the first letter (`word[0]`) of each word as `items = [word[0] for word in listOfWords ]`
+- expression for multiplying parts (`item*3`) of a list as `multiplied = [item*3 for item in list1]`
+- expression for showing the first letter (`word[0]`) of each word as `items = [word[0] for word in listOfWords ]`
+- a defined function (`double(x)`) as `double = [double(x) for x in range(10)]`
