@@ -78,3 +78,4 @@ ____________________________________________________________________________
 | read05 | [Linked Lists](401/read05.md) |
 | read06 | [Game of Greed 1](401/read06.md) |
 | read06 | [Python Scope](401/read07.md) |
+| read06 | [List Comprehensions](401/read08.md) |
