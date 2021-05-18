@@ -77,5 +77,6 @@ ____________________________________________________________________________
 | read04 | [Classes and Objects and Thinking Recursively](401/read04.md) |
 | read05 | [Linked Lists](401/read05.md) |
 | read06 | [Game of Greed 1](401/read06.md) |
-| read06 | [Python Scope](401/read07.md) |
-| read06 | [List Comprehensions](401/read08.md) |
+| read07 | [Python Scope](401/read07.md) |
+| read08 | [List Comprehensions](401/read08.md) |
+| read09 | [Game of Greed 4](401/read09.md) |
