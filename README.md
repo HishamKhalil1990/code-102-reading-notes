@@ -80,3 +80,4 @@ ____________________________________________________________________________
 | read07 | [Python Scope](401/read07.md) |
 | read08 | [List Comprehensions](401/read08.md) |
 | read09 | [Game of Greed 4](401/read09.md) |
+| read10 | [Stacks and Queues](401/read10.md) |
