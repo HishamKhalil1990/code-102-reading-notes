@@ -83,3 +83,4 @@ ____________________________________________________________________________
 | read10 | [Stacks and Queues](401/read10.md) |
 | read11 | [Data Analysis](401/read11.md) |
 | read12 | [Pandas](401/read12.md) |
+| read13 | [Linear Regressions](401/read13.md) |
