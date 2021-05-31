@@ -88,3 +88,4 @@ ____________________________________________________________________________
 | read15 | [Trees](401/read15.md) |
 | read16 | [Machine Learning Intro](401/read16.md) |
 | read17 | [Web Scraping](401/read17.md) |
+| read18 | [Cryptography](401/read18.md) |
