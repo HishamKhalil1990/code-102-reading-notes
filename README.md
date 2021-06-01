@@ -89,3 +89,4 @@ ____________________________________________________________________________
 | read16 | [Machine Learning Intro](401/read16.md) |
 | read17 | [Web Scraping](401/read17.md) |
 | read18 | [Cryptography](401/read18.md) |
+| read19 | [Automation](401/read19.md) |
