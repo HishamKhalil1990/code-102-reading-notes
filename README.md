@@ -1,13 +1,14 @@
 # Itroduction
 ### full name: Hisham Ibrahim Khalil
+### software developer and civil engineer
 ### education:
  1. bachelor degree in civil engineering
- 2. master degree in civil engineerink
+ 2. master degree in civil engineering
+ 3. software development course from ASAC
 ### experiance:
+ - websites and applications using python and javascript
  - worked in constructions
- - worked in solar systems
-### I'm taking a programing cource with ASAC
-### **_This web site is to explain and simplify HTML, CSS and JavaScript for all levels to give a full understad how to develope web sites and web apps_**  
+ - worked in solar systems  
 _________________________________________________________________________
 
 ## Code 102 - Intro to Software Development
@@ -90,3 +91,4 @@ ____________________________________________________________________________
 | read17 | [Web Scraping](401/read17.md) |
 | read18 | [Cryptography](401/read18.md) |
 | read19 | [Automation](401/read19.md) |
+| read26 | [Intro to Django](401/read26.md) |
