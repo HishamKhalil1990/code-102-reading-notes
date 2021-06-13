@@ -92,3 +92,4 @@ ____________________________________________________________________________
 | read18 | [Cryptography](401/read18.md) |
 | read19 | [Automation](401/read19.md) |
 | read26 | [Intro to Django](401/read26.md) |
+| read27 | [Django Models](401/read27.md) |
