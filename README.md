@@ -94,3 +94,4 @@ ____________________________________________________________________________
 | read26 | [Intro to Django](401/read26.md) |
 | read27 | [Django Models](401/read27.md) |
 | read28 | [Django CRUD and Forms](401/read28.md) |
+| read29 | [Django Custom User](401/read29.md) |
