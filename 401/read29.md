@@ -18,4 +18,4 @@
 ## Superuser
 ### we can create a superuser so that we can use it to log in to the admin and test out log in/log out.
 ## Templates/Views/URLs
-### we start by updating settings.py to use a project-level templates directory. then we create a new project-level templates folder and within it a registration folder as that's where Django will look for the log in template. 
+### we start by updating settings.py to use a project-level templates directory. then we create a new project-level templates folder and within it a registration folder as that's where Django will look for the log in template. after that we create a urls.py file in the accounts app. 
