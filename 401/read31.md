@@ -12,3 +12,4 @@ Docker version 19.03.5, build 633a0ea
 ## Images and Containers
 ### Images and containers are the two fundamental concepts to grasp when you start with Docker. An image is a snapshot in time of what a project contains. A container is a running instance of the image.
 ## Library Website and API
+### Django REST Framework works alongside the Django web framework to create web APIs. web API should be added to a project after Django itself has been installed and configured. The most important takeaway is that Django creates websites containing webpages, while Django REST Framework creates web APIs which are a collection of URL endpoints containing available HTTP verbs that return JSON. 
