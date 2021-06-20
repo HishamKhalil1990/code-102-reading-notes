@@ -97,3 +97,4 @@ ____________________________________________________________________________
 | read29 | [Django Custom User](401/read29.md) |
 | read30 | [Hash tables](401/read30.md) |
 | read31 | [Django REST Framework & Docker](401/read31.md) |
+| read32 | [Permissions & Postgresql](401/read32.md) |
