@@ -12,5 +12,8 @@
 - Signature
 ## How do JSON Web Tokens work?
 ### In authentication, when the user successfully logs in using their credentials, a JSON Web Token will be returned. Since tokens are credentials, great care must be taken to prevent security issues. In general, you should not keep tokens longer than required.
+- The JWT is acquired by exchanging an username + password for an access token and an refresh token.
+- The access token is usually short-lived.
+- The refresh token lives a little bit longe. It is comparable to an authentication session. After it expires, you need a full login with username + password again.
 ## Why should we use JSON Web Tokens?
 ### As JSON is less verbose than XML, when it is encoded its size is also smaller, making JWT more compact than SAML. This makes JWT a good choice to be passed in HTML and HTTP environments.

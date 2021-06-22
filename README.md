@@ -98,4 +98,5 @@ ____________________________________________________________________________
 | read30 | [Hash tables](401/read30.md) |
 | read31 | [Django REST Framework & Docker](401/read31.md) |
 | read32 | [Permissions & Postgresql](401/read32.md) |
-| read32 | [Authentication & Production Server](401/read33.md) |
+| read33 | [Authentication & Production Server](401/read33.md) |
+| read34 | [API Deployment](401/read34.md) |
