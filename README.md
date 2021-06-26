@@ -101,3 +101,4 @@ ____________________________________________________________________________
 | read33 | [Authentication & Production Server](401/read33.md) |
 | read34 | [API Deployment](401/read34.md) |
 | read35 | [Graphs](401/read35.md) |
+| read36 | [DSA Review](401/read36.md) |
